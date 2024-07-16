@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "funcaspara": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 34218,
+      "useSSL": false
+    }
+  }
+}
