@@ -1,12 +1,13 @@
 {
   "profiles": {
-    "funcaspara": {
-      "commandName": "Project"
+    "FunctionApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7007"
     },
     "Docker": {
       "commandName": "Docker",
       "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
-      "httpPort": 34218,
+      "httpPort": 34932,
       "useSSL": false
     }
   }
